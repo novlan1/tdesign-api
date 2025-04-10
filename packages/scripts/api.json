@@ -63791,7 +63791,8 @@
     {
       "id": 1712662062,
       "platform_framework": [
-        "8"
+        "8",
+        "16"
       ],
       "component": "ImageViewer",
       "field_category": 1,
@@ -63819,7 +63820,8 @@
       "support_default_value": 1,
       "field_category_text": "Props",
       "platform_framework_text": [
-        "Vue(Mobile)"
+        "Vue(Mobile)",
+        "React(Mobile)"
       ],
       "field_type_text": [
         "Number"
@@ -63884,7 +63886,7 @@
       "create_time": "2022-07-04 12:06:31",
       "update_time": "2022-07-04 12:06:31",
       "event_output": null,
-      "custom_field_type": "Number",
+      "custom_field_type": "number",
       "syntactic_sugar": null,
       "readonly": 1,
       "html_attribute": 0,
@@ -64585,7 +64587,8 @@
     {
       "id": 1712662128,
       "platform_framework": [
-        "8"
+        "8",
+        "16"
       ],
       "component": "ImageViewer",
       "field_category": 2,
@@ -64611,7 +64614,8 @@
       "support_default_value": 0,
       "field_category_text": "Events",
       "platform_framework_text": [
-        "Vue(Mobile)"
+        "Vue(Mobile)",
+        "React(Mobile)"
       ],
       "field_type_text": []
     },
